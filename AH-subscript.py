@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
 
-import time
 import AH
 from pynput.keyboard import Key, Listener, KeyCode
 
